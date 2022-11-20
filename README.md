@@ -32,7 +32,7 @@ Therefore, EDA process focusing on things that can help to reduce CO2 in bangkok
 <p align="center"><img src="./images/func.png" /></p>
 <p align="center"><img src="./images/download%20(2).png" /></p>
 
-s
+
 
 This project is just breifly analysis with an assumption and limitation about calculating the CO2 reduction capability due to lack of sensing data of air quantity. The result gives that the green space in BKK at present is **not enough to meet the objective**, as you can see the capability of CO2 reduction is only 0.52% of the total CO2 emission in BKK. Therefore, the Chatchart campaign is necessary and it will make a big change to the quantity of CO2 reduction in BKK.
 
